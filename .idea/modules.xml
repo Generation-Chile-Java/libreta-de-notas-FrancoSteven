@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libreta/libreta.iml" filepath="$PROJECT_DIR$/libreta/libreta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/libreta-de-notas-FrancoSteven.iml" filepath="$PROJECT_DIR$/.idea/libreta-de-notas-FrancoSteven.iml" />
+    </modules>
+  </component>
+</project>
